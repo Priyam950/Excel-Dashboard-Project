@@ -35,6 +35,24 @@ Target women customers of age group (20-49) years living in Maharashtra, Karnata
 - Open the file in Microsoft Excel.
 - Navigate through the worksheets using the tabs at the bottom.
 - Each worksheet provides specific insights and visualizations related to different aspects of Vrinda Store's operations.
+- 
+- Project 2: Coffee Shop Sales Analysis Dashboard
+
+#### Overview
+An Excel Dashboard project for a coffee shop, showing data analysis and insights for sales performance.
+ Insights
+- Top 3 months when sales are on peak are May, April, and June.
+- Coffee and tea are the most selling product categories.
+- 7 am to 11 am is the peak time for sales.
+- Top 5 product types are Barista Espresso, Brewed Black tea, Brewed Chai tea, Gourmet brewed coffee, and Hot chocolate.
+- Monday, Thursday, and Friday are peak days for sales.
+- Small size products are least ordered by customers.
+- Hell's Kitchen location is the most profitable location.
+
+## How to Use
+1. Download the Excel files from the respective project folders.
+2. Open the files in Microsoft Excel.
+3. Explore the different worksheets and interact with the dashboard elements.
 
 
 ## Contact
