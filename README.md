@@ -40,7 +40,7 @@ Target women customers of age group (20-49) years living in Maharashtra, Karnata
 
 #### Overview
 An Excel Dashboard project for a coffee shop, showing data analysis and insights for sales performance.
- Insights
+### Insights
 - Top 3 months when sales are on peak are May, April, and June.
 - Coffee and tea are the most selling product categories.
 - 7 am to 11 am is the peak time for sales.
