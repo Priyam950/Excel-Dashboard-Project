@@ -35,8 +35,8 @@ Target women customers of age group (20-49) years living in Maharashtra, Karnata
 - Open the file in Microsoft Excel.
 - Navigate through the worksheets using the tabs at the bottom.
 - Each worksheet provides specific insights and visualizations related to different aspects of Vrinda Store's operations.
-- 
-- Project 2: Coffee Shop Sales Analysis Dashboard
+  
+# Project 2: Coffee Shop Sales Analysis Dashboard
 
 #### Overview
 An Excel Dashboard project for a coffee shop, showing data analysis and insights for sales performance.
